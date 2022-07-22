@@ -1,0 +1,2 @@
+# tradetrider
+Algo trading bot
